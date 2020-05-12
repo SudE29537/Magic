@@ -4,7 +4,7 @@
   "description": "Jogo de advinhação",
   "main": "app.js",
   "scripts": {
-    "start": "app.js"
+    "start": ".app.js"
   },
   "author": "Eduardo Sanches",
   "license": "ISC",
