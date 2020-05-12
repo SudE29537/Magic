@@ -4,7 +4,7 @@
   "description": "Jogo de advinhação",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "app.js"
   },
   "author": "Eduardo Sanches",
   "license": "ISC",
